@@ -1,1 +1,1 @@
-# JS-playground
+# JavaScript Playground
